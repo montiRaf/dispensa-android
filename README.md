@@ -23,7 +23,7 @@ Clicca [qui](./Dispensa%20SMS.pdf) per scaricare la dispensa.
 
 ## ✍️ Autore
 
-Materiale realizzato da *[Il tuo nome]* per supporto allo studio universitario.  
+Materiale realizzato da *Raffaele Monti* per supporto allo studio universitario.  
 Per suggerimenti, correzioni o richieste: apri una Issue o contattami su [LinkedIn](https://linkedin.com).
 
 ## 📜 Licenza
